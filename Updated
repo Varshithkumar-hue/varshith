@@ -1,0 +1,17 @@
+echo "message " > vasa02
+git status
+git add . or git vasa02
+git commit -m "added a file"
+git push origin filename 
+
+         (OR)
+touch File name 
+vim file name
+git status
+git add . or git file name
+git commit -m "added a file"
+goit push origin filname
+
+
+
+
