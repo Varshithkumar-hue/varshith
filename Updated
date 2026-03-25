@@ -10,7 +10,7 @@ vim file name
 git status
 git add . or git file name
 git commit -m "added a file"
-git push origin filname
+goit push origin filname
 
 
 
